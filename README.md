@@ -5,13 +5,31 @@
 
 Mattias Ohlsson, Faculty of Science, Lund University
 
+Teaching assistants: Rafsan Ahmed, Salma Kazemi Rashed
+
+
+## Course description
+
+Artificial intelligence is rapidly entering medicine and life science research as well as pharmaceutical industry and health care institutions. It is also increasingly used in environmental sciences. This introduction course will give an overview over artificial intelligence concepts and methods and over current and future applications of artificial intelligence in medicine and life sciences. Societal, ethical and legal challenges will also be addressed. In addition, students will hear about ongoing research in this area at Lund University and develop a project plan for an artificial intelligence research project in their own research domain. This is the first course in the new course package on "Artificial Intelligence in Medicine and Life Science" and will not have any programming exercises. There are several complementary in-depth courses with practical exercises, each focusing on different types of data.
+
+The course is targeted at PhD students, researchers and other professionals in medicine, life science, environmental science, engineering, maths or computer science or related fields.
+
+### Course plan
+https://www.compute.lu.se/fileadmin/compute/documents/course_plans/NTF012F-Eng.pdf
+
+## Schedule
+
+Course days are Dec 12, 13, 14, 15, 2023. 
+
+Project presentations and oppositions which serve as examinations are on Jan 22 and 23, 2024
+
 
 ## Attendance
 It is not mandatory to attend all parts of the course to receive a pass grade as the course material will be shared and can be studied independently. However, if you are going to miss more than half a day, please get in contact with the course leader. Attendance at the examination is mandatory but if needed, an alternative examination date can be set up.
 
 
 ## Examination
-Grades are pass/fail. The examination consists of a project assignment. Presentations will take place on Jan 22 or 23, 2024.
+Grades are pass/fail. The examination consists of an individual project (home assignment) and opposition.
 
 
 You are encouraged to discuss the course materials and your project ideas with your classmates. However, all work you submit must be your own. Shared projects or re-submission of prior course or research work you have created yourself is not allowed.
