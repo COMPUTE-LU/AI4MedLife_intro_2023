@@ -1,4 +1,4 @@
-# AI in Medicine and Life Sciences – AI for image and video data (NTF012F), 2023
+# AI in Medicine and Life Sciences – AI for image and video data (NTF012F, 1.5 ECTS), 2023
 
 ## Teachers
 [Sonja Aits](https://github.com/SonjaAits), Faculty of Medicine, Lund University (course coordinator)
