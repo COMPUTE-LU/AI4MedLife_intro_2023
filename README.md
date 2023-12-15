@@ -26,11 +26,10 @@ Course days are Dec 12, 13, 14, 15, 2023.
 Dec 12
 |Time       |Title | Teacher  | Material  |
 | ------------- |:--------------------------------------------:| :-----:| :-----:|
-| 09:00 – 10:00|Welcome and introduction round| Sonja Aits |[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-1_Intro.pdf)|
-| Ca 09:45 – 10:15|Break |||
-| 10:15 – 11:30|Introduction: what is AI and how can it be used in medicine and life sciences? |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-1_Intro.pdf)|
-
-| 11:30 – 12:00 |Data types and sources  |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-2_data.pdf)|
+| 09:00 – 10:00 |Welcome and introduction round| Sonja Aits |[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-1_Intro.pdf)|
+| Ca 09:45 – 10:15 |Break |||
+| 10:15 – 11:30 |Introduction: what is AI and how can it be used in medicine and life sciences? |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-1_Intro.pdf)|
+| 11:30 – 12:00 |Data types and sources |Sonja Aits|[slides]([slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-2_data.pdf)|
 | 12:00 – 13:00 |Lunch break  |||
 | 13:00 – 15:00 |General AI Concepts and Tasks |Mattias Ohlsson|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-3_concepts_part1.pdf)|
 | Ca 14:00 – 14:30|Break |||
@@ -38,10 +37,10 @@ Dec 12
 Dec 13
 |Time       |Title | Teacher  | Material  |
 | ------------- |:--------------------------------------------:| :-----:| :-----:|
-| 10:30 – 12:00|Computer vision in medicine and life science |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_2-1_computervision.pdf)|
+| 10:30 – 12:00 |Computer vision in medicine and life science |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_2-1_computervision.pdf)|
 | 12:00 – 13:00 |Lunch break  |||
 | 13:00 – 16:00 |General AI Concepts and Tasks II |Mattias Ohlsson|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_2-2_concepts_part2.pdf)|
-| Ca 14:00 – 14:30|Break |||
+| Ca 14:00 – 14:30 |Break |||
 
 Dec 14
 |Time       |Title | Teacher  | Material  |
