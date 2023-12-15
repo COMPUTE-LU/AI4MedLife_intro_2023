@@ -29,7 +29,7 @@ Dec 12
 | 09:00 – 10:00 |Welcome and introduction round| Sonja Aits |[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-1_Intro.pdf)|
 | Ca 09:45 – 10:15 |Break |||
 | 10:15 – 11:30 |Introduction: what is AI and how can it be used in medicine and life sciences? |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-1_Intro.pdf)|
-| 11:30 – 12:00 |Data types and sources |Sonja Aits|[slides]([slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-2_data.pdf)|
+| 11:30 – 12:00 |Data types and sources |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-2_data.pdf)|
 | 12:00 – 13:00 |Lunch break  |||
 | 13:00 – 15:00 |General AI Concepts and Tasks |Mattias Ohlsson|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-3_concepts_part1.pdf)|
 | Ca 14:00 – 14:30|Break |||
