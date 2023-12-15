@@ -15,11 +15,53 @@ Artificial intelligence is rapidly entering medicine and life science research a
 The course is targeted at PhD students, researchers and other professionals in medicine, life science, environmental science, engineering, maths or computer science or related fields.
 
 ### Course plan
+The official course plan outlining the course content, learning goals, etc. 
+
 https://www.compute.lu.se/fileadmin/compute/documents/course_plans/NTF012F-Eng.pdf
 
 ## Schedule
 
 Course days are Dec 12, 13, 14, 15, 2023. 
+
+Dec 12
+|Time       |Title | Teacher  | Material  |
+| ------------- |:--------------------------------------------:| :-----:| :-----:|
+| 09:00 – 10:00|Welcome and introduction round| Sonja Aits |[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-1_Intro.pdf)|
+| Ca 09:45 – 10:15|Break |||
+| 10:15 – 11:30|Introduction: what is AI and how can it be used in medicine and life sciences? |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-1_Intro.pdf)|
+
+| 11:30 – 12:00 |Data types and sources  |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-2_data.pdf)|
+| 12:00 – 13:00 |Lunch break  |||
+| 13:00 – 15:00 |General AI Concepts and Tasks |Mattias Ohlsson|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_1-3_concepts_part1.pdf)|
+| Ca 14:00 – 14:30|Break |||
+
+Dec 13
+|Time       |Title | Teacher  | Material  |
+| ------------- |:--------------------------------------------:| :-----:| :-----:|
+| 10:30 – 12:00|Computer vision in medicine and life science |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_2-1_computervision.pdf)|
+| 12:00 – 13:00 |Lunch break  |||
+| 13:00 – 16:00 |General AI Concepts and Tasks II |Mattias Ohlsson|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_2-2_concepts_part2.pdf)|
+| Ca 14:00 – 14:30|Break |||
+
+Dec 14
+|Time       |Title | Teacher  | Material  |
+| ------------- |:--------------------------------------------:| :-----:| :-----:|
+| 09:00 – 11:00|Natural language processing in medicine and life science |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_3-1_nlp.pdf)|
+| 11:00 – 11:30|Break |||
+| 11:30 – 12:00|Developing your AI project |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_3-2-project.pdf)|
+| 12:00 – 13:00 |Lunch break  |||
+| 13:00 – 16:00 |Independent project work ||[project template](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/projecttemplate.pptx)|
+
+
+Dec 15
+|Time       |Title | Teacher  | Material  |
+| ------------- |:--------------------------------------------:| :-----:| :-----:|
+| 09:00 – 09:30|Societal, ethical and legal implications of AI |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_4-1_Ethics.pdf)|
+| 09:30 – 10:45|Discussion of societal, ethical and legal implications of AI |Sonja Aits, teaching assistants|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_4-1_Ethics.pdf)|
+| 10:45 – 11:15|Break |||
+| 11:15 – 12:00|AI research in practice: project design, problems and trouble shooting in 4 ongoing research projects in the Cell death, Lysosomes and AI group at Lund University |Sonja Aits|[slides](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/AI4MedLife_3-2-project.pdf)|
+| 12:00 – 13:00 |Lunch break |||
+| 13:00 – 16:00 |Independent project work ||[project template](https://github.com/COMPUTE-LU/AI4MedLife_intro_2023/blob/main/slides/projecttemplate.pptx)|
 
 Project presentations and oppositions which serve as examinations are on Jan 22 and 23, 2024
 
@@ -60,8 +102,17 @@ https://www.kaggle.com/datasets
 
 https://bbbc.broadinstitute.org/
 
-## Additional resources (optional)
-You can find optional additional training material to deepen your knowledge on https://github.com/Aitslab/training.
+## Resources
+To help design your project, you are expected to read at least one research article related to your projects. Suitable articles can for example be found on:
+
+https://www.ncbi.nlm.nih.gov/pubmed/
+
+https://www.biorxiv.org/
+
+https://arxiv.org/
+
+For those of you who want to deepen your knowledge after the course, you can find additional material on https://github.com/Aitslab/training and https://github.com/COMPUTE-LU.
+
 
 ## License
 This repo is made public as an open educational resource. All material in it is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). If you teach a course based on this material, we would appreciate your feedback so we can improve it further.
